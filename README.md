@@ -1,4 +1,4 @@
-This project was developed during the course: 
+<h6>This project was developed during the course: </h6>
 <h1 align="center">Deploy Models with TensorFlow Serving and Flask</h1>
 <h6 align="center">by Coursera Project Network</h6>
 
