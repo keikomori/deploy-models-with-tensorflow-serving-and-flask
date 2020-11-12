@@ -20,3 +20,5 @@ docker run -p 8501:8501 --name=pets -v "../deploy-models-with-tensorflow-serving
   <a href="https://www.docker.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
   <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img src="https://www.pngfind.com/pngs/m/104-1044449_python-logo-clipart-drawing-flask-python-hd-png.png" alt="flask" width="40" height="40"/></a> 
 </p>
+
+<h6 align="center">Curso ministrado por: Amit Yadav - Instrutor de Machine Learning</h6>
